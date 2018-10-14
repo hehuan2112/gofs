@@ -6,4 +6,4 @@
 
 Using this gofs!
 
-It's a very ver simple file server!
+It's a very very simple file server!
